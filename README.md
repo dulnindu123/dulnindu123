@@ -1,16 +1,79 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Dulnindu+Saranga+👋;Software+Engineer;IoT+Enthusiast;Backend+Developer" alt="Typing SVG" />
+</div>
 
-<!--
-**dulnindu123/dulnindu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <i>Passionate about building robust backend APIs, developing intelligent IoT hardware solutions, and exploring data-driven applications.</i>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 Software Engineering Student / Graduate based in Colombo, Sri Lanka 🇱🇰
+- 🔭 I’m currently working on finalizing my **Smart Campus API** & **HelaDry IoT Dehydrator**
+- 🌱 I’m currently learning deeper **Cloud Architecture (AWS)** & **Machine Learning**
+- 🤝 I’m open to collaborating on **Open Source IoT projects** or **Backend Systems**
+- 💬 Ask me about **Java, Python, C++, or building REST APIs**
+- 📫 How to reach me: **[Insert Your Email Address Here]**
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+*Click to expand!*
+
+<details>
+  <summary><b>👨‍💻 Programming Languages</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>🧰 Frameworks & Libraries</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+</details>
+
+<details>
+  <summary><b>☁️ Cloud, Databases & Tools</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulnindu123&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulnindu123&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🏛️ **[Smart Campus API](https://github.com/dulnindu123/smart-campus-api)** | High-performance Java RESTful Web Service utilizing JAX-RS and Grizzly for campus telemetry. | `Java`, `JAX-RS`, `Maven` |
+| ☀️ **[HelaDry](https://github.com/dulnindu123/SDGP-HelaDry-CS154)** | Solar-Powered IoT Hybrid Dehydrator System to reduce post-harvest losses. Includes C++ Firmware & App. | `C++`, `Dart`, `Flutter`, `Firebase` |
+
+---
+
+### 🔗 Let's Connect!
+<div align="center">
+  <a href="https://www.linkedin.com/in/w-k-dulnindu-saranga-8ab128343"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/dulnindusaranga"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</div>
