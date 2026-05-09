@@ -60,8 +60,8 @@
 <br/>
 
 <div align="center">
-  <!-- Stable Languages Mirror -->
-  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=dulnindu123&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" width="48%" />
+  <!-- Verified Stable Mirror for Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dulnindu123&theme=tokyonight" alt="Top Languages" width="48%" />
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulnindu123&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="GitHub Streak" width="48%" />
 </div>
