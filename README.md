@@ -60,8 +60,8 @@
 <br/>
 
 <div align="center">
-  <!-- Most Used Languages (Alternative stable provider) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulnindu123&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
+  <!-- Stable Languages Mirror -->
+  <img src="https://github-readme-stats-sigma.vercel.app/api/top-langs/?username=dulnindu123&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" width="48%" />
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulnindu123&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="GitHub Streak" width="48%" />
 </div>
@@ -69,8 +69,8 @@
 <br/>
 
 <div align="center">
-  <!-- High-Performance Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulnindu123&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="GitHub Streak" width="97%" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulnindu123&theme=tokyonight&hide_border=true&area=true&color=2196F3" alt="Activity Graph" width="97%" />
 </div>
 
 ---
