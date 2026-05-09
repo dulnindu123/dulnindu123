@@ -53,17 +53,17 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <!-- Stable Stats Alternative -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulnindu123&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <!-- Stable Languages Alternative -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=dulnindu123&theme=tokyonight" alt="Top Languages" width="48%" />
+  <!-- Professional Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dulnindu123&theme=tokyonight" alt="GitHub Stats" width="97%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- This one is working perfectly, so we keep it! -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulnindu123&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="GitHub Streak" width="97%" />
+  <!-- Most Used Languages (Alternative stable provider) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulnindu123&layout=compact&theme=tokyonight&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulnindu123&theme=tokyonight&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
